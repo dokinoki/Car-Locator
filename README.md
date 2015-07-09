@@ -1,6 +1,7 @@
 # Car-Locator
 
-The purpose of this project is to create a hardware and software platform to interact with a car remotely.
+The purpose of this project is to create a hardware and software platform to interact with a car remotely.<br>
+<b>Check out the wiki for more information!!</b>
 
 Features 
 --------
@@ -31,7 +32,3 @@ Hardware
 - OBDII Freematics Arduino Adapter
 - Adafruit Fona 800 GSM module
 - DHT22 Temperature & humidity sensor
-
-
-
-- 
